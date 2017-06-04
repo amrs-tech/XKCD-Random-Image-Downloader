@@ -3,4 +3,4 @@ Using 'urllib.request' package and 're' module, the url of the images are extrac
 
 ### Output Screenshot:
 
-![Alt text](/Screen%20Shot%202017-06-04%20at%2010.04.59.png?raw=true "Optional Title")
+![Alt text](/Screen%20Shot%202017-06-04%20at%2010.04.59.png?raw=true "Command-Line output of the Python code")
